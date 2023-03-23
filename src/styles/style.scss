@@ -1,0 +1,9 @@
+.resultados{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+    .contador{
+        padding: 10px;
+    }
+}
